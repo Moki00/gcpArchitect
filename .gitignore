@@ -1,0 +1,12 @@
+
+# pictures
+*.png
+*.jpg
+*.jpeg
+
+# documents
+*.pdf
+*.txt
+
+# Kryterion Sentinel Secure
+*.exe
