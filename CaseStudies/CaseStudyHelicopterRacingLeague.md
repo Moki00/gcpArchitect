@@ -12,6 +12,7 @@ HRL wants to migrate their existing service to a new platform to expand their us
 Additionally, as new fans engage with the sport, particularly in emerging regions, they want to move the serving of their content, both real-time and recorded, closer to their users.
 
 ## Existing technical environment
+
 HRL is a public cloud-first company; the core of their mission-critical applications runs on their current public cloud provider.
 Video recording and editing is performed at the race tracks, and the content is encoded and transcoded, where needed, in the cloud.
 
@@ -24,6 +25,7 @@ provider.
 - Race predictions are performed using TensorFlow running on VMs in the current public cloud provider.
 
 ## Business requirements
+
 HRL’s owners want to expand their predictive capabilities and reduce latency for their viewers in emerging markets. Their requirements are:
 * Support ability to expose the predictive models to partners
 * Increase telemetry and create additional insights
